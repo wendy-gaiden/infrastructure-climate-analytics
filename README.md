@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 # Infrastructure Climate Analytics
 
-## About Me
+## 👨‍💼 About Me
 
-I'm a Civil Engineer with 20+ years of experience, recently graduated with a Master's in Data Science (Oct 2024). This project combines my domain expertise in infrastructure with modern data science techniques.
-
-## Project Overview
+**Name:** Wendy Lim\
+**Background:** Civil Engineer with 20+ years of experience\
+**Education:** M.S. Data Science (Oct 2024); B.Eng. (Hons) Civil Engineering (Apr 2002)\
+**Location:** Johor, Malaysia \| Singapore \## Project Overview
 
 Analyzing the relationship between infrastructure resilience and climate adaptation strategies across 50+ countries.
 
@@ -21,16 +21,9 @@ Analyzing the relationship between infrastructure resilience and climate adaptat
 1.  Clone the repository
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Run data collection: `python etl/collect_data.py`
-4.  Explore data: `jupyter notebook notebooks/data_exploration.ipynb`
-=======
-# 🏗️ Infrastructure Climate Analytics
+4.  Explore data: `jupyter notebook notebooks/data_exploration.ipynb` \<\<\<\<\<\<\< HEAD ======= =======
 
-## 👨‍💼 About Me
-
-**Name:** Wendy Lim\
-**Background:** Civil Engineer with 20+ years of experience\
-**Education:** Master's in Data Science (October 2024), Bachelor of Engineering (Honors): Civil Engineering (Apr 2002)\
-**Location:** Johor, Malaysia \| Singapore
+> > > > > > > feature/etl-pipeline \# 🏗️ Infrastructure Climate Analytics
 
 ## 🎯 Project Purpose
 
@@ -187,4 +180,3 @@ I'm actively seeking opportunities in data science and would love to connect wit
 **Project Status:** Under active development\
 **Last Updated:** Aug 2025\
 **Target Completion:** October 2025
->>>>>>> main

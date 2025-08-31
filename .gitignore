@@ -1,33 +1,47 @@
 # Python
-*.pyc
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
 venv/
-.env
+ENV/
+.venv
 *.egg-info/
-dist/
-build/
 
-# Data files (too large for Git)
+# R files
+.Rhistory
+.RData
+
+# Data files
 data/raw/*.csv
-data/raw/*.xlsx
 data/raw/*.json
+data/raw/*.xlsx
 data/processed/*.parquet
 *.db
+
+# Jupyter
+.ipynb_checkpoints/
 
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-
-# OS
 .DS_Store
-Thumbs.db
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb_checkpoints
+# Environment
+.env
+*.env
 
 # Logs
 *.log
 logs/
+
+# Testing
+.coverage
+.pytest_cache/
+
+# Temp files
+tmp/
+*.tmp
+*.bak
