@@ -4,7 +4,7 @@
 
 **Name:** Wendy Lim\
 **Background:** Civil Engineer with 20+ years of experience\
-**Education:** Master's in Data Science (October 2024)\
+**Education:** Master's in Data Science (October 2024), Bachelor of Engineering (Honors): Civil Engineering (Apr 2002)\
 **Location:** Johor, Malaysia \| Singapore
 
 ## 🎯 Project Purpose
