@@ -9,54 +9,39 @@ venv/
 ENV/
 .venv
 *.egg-info/
-dist/
-build/
 
-# R files (since you have .Rhistory)
+# R files
 .Rhistory
 .RData
-.Rproj.user/
 
-# Data files (too large for Git)
+# Data files
 data/raw/*.csv
 data/raw/*.json
 data/raw/*.xlsx
 data/processed/*.parquet
-data/processed/*.csv
-data/final/*.parquet
 *.db
-*.sqlite
 
 # Jupyter
 .ipynb_checkpoints/
-*.ipynb_checkpoints
 
 # IDE
 .vscode/
 .idea/
-*.swp
-*.swo
 .DS_Store
-Thumbs.db
 
 # Environment
 .env
-.env.local
 *.env
 
 # Logs
 *.log
 logs/
-*.pid
 
 # Testing
 .coverage
-htmlcov/
 .pytest_cache/
 
-# Temporary files
+# Temp files
 tmp/
-temp/
 *.tmp
 *.bak
-*~
