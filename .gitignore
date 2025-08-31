@@ -1,33 +1,62 @@
 # Python
-*.pyc
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
 venv/
-.env
+ENV/
+.venv
 *.egg-info/
 dist/
 build/
 
+# R files (since you have .Rhistory)
+.Rhistory
+.RData
+.Rproj.user/
+
 # Data files (too large for Git)
 data/raw/*.csv
-data/raw/*.xlsx
 data/raw/*.json
+data/raw/*.xlsx
 data/processed/*.parquet
+data/processed/*.csv
+data/final/*.parquet
 *.db
+*.sqlite
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
 
 # IDE
 .vscode/
 .idea/
 *.swp
 *.swo
-
-# OS
 .DS_Store
 Thumbs.db
 
-# Jupyter
-.ipynb_checkpoints/
-*.ipynb_checkpoints
+# Environment
+.env
+.env.local
+*.env
 
 # Logs
 *.log
 logs/
+*.pid
+
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*~
