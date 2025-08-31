@@ -21,9 +21,7 @@ Analyzing the relationship between infrastructure resilience and climate adaptat
 1.  Clone the repository
 2.  Install dependencies: `pip install -r requirements.txt`
 3.  Run data collection: `python etl/collect_data.py`
-4.  Explore data: `jupyter notebook notebooks/data_exploration.ipynb` \<\<\<\<\<\<\< HEAD ======= =======
-
-> > > > > > > feature/etl-pipeline \# 🏗️ Infrastructure Climate Analytics
+4.  Explore data: `jupyter notebook notebooks/data_exploration.ipynb`
 
 ## 🎯 Project Purpose
 
