@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Infrastructure Climate Analytics
 
 ## About Me
@@ -187,4 +186,4 @@ I'm actively seeking opportunities in data science and would love to connect wit
 **Project Status:** Under active development\
 **Last Updated:** Aug 2025\
 **Target Completion:** October 2025
->>>>>>> main
+
