@@ -180,3 +180,22 @@ I'm actively seeking opportunities in data science and would love to connect wit
 **Project Status:** Under active development\
 **Last Updated:** Aug 2025\
 **Target Completion:** October 2025
+
+## 🚀 Live Demo
+
+**Dashboard is live!** Visit: [https://infrastructure-climate-analytics.onrender.com](https://infrastructure-climate-analytics.onrender.com)
+
+## 📊 Dashboard Features
+
+- **Real-time Filtering**: Select countries and year ranges
+- **Interactive Visualizations**: Hover for details, zoom, and pan
+- **Multiple Views**: Time series, rankings, heatmaps, and distributions
+- **Responsive Design**: Works on desktop and mobile
+
+## 🏆 Project Completed
+
+- End-to-end data pipeline development
+- Interactive dashboard creation
+- Cloud deployment capabilities
+- Domain expertise integration (Civil Engineering + Data Science)
+
