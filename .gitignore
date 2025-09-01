@@ -45,3 +45,8 @@ logs/
 tmp/
 *.tmp
 *.bak
+
+# Generated data files
+data/final/
+data/*.duckdb
+*.duckdb
