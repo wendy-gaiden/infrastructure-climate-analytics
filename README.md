@@ -5,7 +5,9 @@
 **Name:** Wendy Lim\
 **Background:** Civil Engineer with 20+ years of experience\
 **Education:** M.S. Data Science (Oct 2024); B.Eng. (Hons) Civil Engineering (Apr 2002)\
-**Location:** Johor, Malaysia \| Singapore \## Project Overview
+**Location:** Johor, Malaysia \| Singapore\
+
+## Project Overview
 
 Analyzing the relationship between infrastructure resilience and climate adaptation strategies across 50+ countries.
 
