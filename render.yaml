@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: infrastructure-climate-analytics
+    env: python
+    buildCommand: "pip install --upgrade pip setuptools wheel && pip install -r requirements.txt"
+    startCommand: "gunicorn dashboard.app:server"
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.12
